@@ -2,6 +2,8 @@
 
 De l'intérêt de lire les readme :
 
+Je n'ai fait qu'un seul exercice (mais il y a 2 fichiers car 2 versions)
+
 Parmi les 2 fichiers, celui à corriger est le deuxième envoi : darktrader.rb lié au fichier de contrôle darktrader_spec.rb
 
 Le premier envoi (01_scrap) n'est pas faux mais il y manquait une méthode de contrôle.
